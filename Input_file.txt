@@ -1,0 +1,14 @@
+The number of input variable is:
+2
+The number of steps for Exhaustive Search:
+40
+The precision level for Interval Halving:
+6
+Number of iterartions for Cauchy's Steepest Descent:
+1000
+Degree of precision for Steepest Descent:
+20
+Intial value of x1
+4
+Intial value of x2
+4
