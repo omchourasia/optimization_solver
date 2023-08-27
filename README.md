@@ -1,2 +1,2 @@
 # optimization_solver
-Optimization of Multivariable Constraind Problem using Phython Language
+Optimization of Multivariable Constrained Problem using Phython Language
